@@ -1,0 +1,47 @@
+#main {
+    background: rgb(1, 175, 146);
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+#header {
+    margin: 40px auto;
+    padding: 20px 0 0 0;
+}
+
+#sub-header {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 0;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: calibri;
+    font-style: bold;
+  }
+
+#img-div {
+    margin: 10px;
+    background: rgb(2, 32, 32);
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding: 20px;
+}
+
+#img-caption {
+    text-align: center;
+    padding: 15px;
+    font-size: 17px;
+    color: white;
+}
