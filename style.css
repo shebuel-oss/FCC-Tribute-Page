@@ -45,3 +45,63 @@
     font-size: 17px;
     color: white;
 }
+
+#tribute-info {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: helvetica;
+    text-align: center;
+    padding: 30px;
+    color: rgb(2, 32, 32);
+    background: white;
+  }
+  
+  .content {
+      text-align: justify;
+      max-width: 600px;
+      margin: auto;
+      font-family: calibri;
+      color: white;
+  }
+
+  li {
+      margin: 16px;
+  }
+
+  time {
+      font-weight: bold;
+  }
+
+  .lastquote {
+    max-width: 600px;
+    text-align: justify;
+    margin: auto;
+    padding: 18px;
+    font-family: calibri;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #footer {
+    font-weight: bold;
+    font-family: helvetica;
+    color: rgb(2, 32, 32);
+    background: white;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  a:link {
+      color: rgb(107, 107, 9);
+  }
+  a:visited {
+    color: rgb(160, 5, 101);
+  }
+  a:hover {
+    color: rgb(11, 167, 133);
+  }
+  a:active {
+    color: rgb(241, 175, 52);
+  }
