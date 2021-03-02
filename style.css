@@ -96,13 +96,17 @@
 
   a:link {
       color: rgb(107, 107, 9);
+      text-decoration: none;
   }
   a:visited {
     color: rgb(160, 5, 101);
+    text-decoration: none;
   }
   a:hover {
     color: rgb(11, 167, 133);
+    text-decoration: none;
   }
   a:active {
     color: rgb(241, 175, 52);
+    text-decoration: none;
   }
