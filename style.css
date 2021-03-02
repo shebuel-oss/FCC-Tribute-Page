@@ -36,7 +36,8 @@
     height: auto;
     margin: auto;
     display: block;
-    padding: 20px;
+    padding: auto 20px;
+    object-fit: contain;
 }
 
 #img-caption {
